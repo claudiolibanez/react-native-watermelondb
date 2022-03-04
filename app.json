@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "reactnativewatermelondb",
+    "slug": "reactnativewatermelondb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
